@@ -1,0 +1,27 @@
+{
+  "name": "mall-seo",
+  "version": "1.0.0",
+  "description": "网站seo技术文档专题",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "init": "docsify init ./docs",
+    "dev": "docsify serve ./docs",
+    "start": "docsify start ./docs",
+    "generate": "docsify generate ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bule-sky/mall-seo.git"
+  },
+  "author": "Haley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMHGH/Mall-SEO/issues"
+  },
+  "homepage": "https://github.com/MMHGH/Mall-SEO#readme",
+  "dependencies": {
+    "docsify": "^4.12.1"
+  }
+}
